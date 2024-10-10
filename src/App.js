@@ -13,7 +13,7 @@ const App = () => {
   return (
     <div className="App">
       <h1>Student Information System</h1>
-      <h5>Developed By: StudentID || Student Name || DevOps</h5>
+      <h5>Developed By: 101431885 || Ibrahim Abdillahi || DevOps</h5>
       <StudentForm addStudent={addStudent} />
       <StudentList students={students} />
     </div>
@@ -21,3 +21,4 @@ const App = () => {
 };
 
 export default App;
+
